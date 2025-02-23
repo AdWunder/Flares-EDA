@@ -27,7 +27,7 @@ The dataset includes key parameters such as:
 Accurate solar storm predictions help protect **satellites, astronauts, and critical infrastructure** from the adverse effects of solar radiation.  
 
 ## 🔗 References  
-- [EDA-Solar_Flares - RHESSI]([https://hesperia.gsfc.nasa.gov/rhessi3/](https://www.kaggle.com/code/dsvsriharsha/eda-solar-flares))  
+- [EDA-Solar_Flares - RHESSI]((https://www.kaggle.com/code/dsvsriharsha/eda-solar-flares))  
 
 
 🚀 **Stay ahead of the storm!**  
