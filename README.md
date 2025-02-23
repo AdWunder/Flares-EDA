@@ -1,6 +1,6 @@
 # 🌞 Solar Storm EDA – RHESSI Mission
 
-
+![Solar Flare Data](Flares.png)
 
 ## 🔍 Project Overview  
 This project analyzes solar activity data to analyse solar storms and their potential impact using data from the **Reuven Ramaty High Energy Solar Spectroscopic Imager (RHESSI)**. RHESSI, a NASA space observatory, was launched in 2002 to study high-energy solar flares and particle acceleration mechanisms.
